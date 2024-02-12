@@ -1,0 +1,168 @@
+
+/*=====Common styles=====*/
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+  background: #fff;
+}
+ul,ol{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+button{
+  cursor: pointer;
+}
+img{
+  display: block;
+}
+
+/*=====/Common styles=====*/
+
+/*=======List Header styles=======*/
+.logo{
+  font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.logo-part{
+    color: #4d5ae5;
+}
+.list-link{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.list-link:hover,
+.list-link:focus {
+  color: #404bbf;
+}
+
+
+.address-link{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.address-link:hover,
+.address-link:focus {
+    color: #404bbf;
+}
+/*==========/List Header styles==========*/
+/*============Hero Section styles============*/
+
+.hero-section{
+  background: #2e2f42;
+}
+.hero-title{
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+.button-primary{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background-color: #4d5ae5;
+}
+.button-primary:hover,
+.button-primary:focus{
+  background: #404bbf;
+}
+/*============/Hero Section styles============*/
+/*===================Describe styles===================*/
+
+.describe-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.discibe-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+/*===================/Describe styles===================*/
+/*===================Team Section styles===================*/
+.team-section{
+  background: #f4f4fd;
+}
+.title{
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+}
+.team-name{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.team-position{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+/*===================/Team Section styles===================*/
+/*===================Portfolio Section styles===================*/
+.portfolio-section{
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+}
+.portfolio-name{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.services{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+/*===================/Portfolio Section styles===================*/
+/*===================Footer styles===================*/
+
+.footer-logo{
+  font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+}
+.footer-logo-part{
+    color: #4d5ae5;
+}
+.footer-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+.site-footer{
+  background: #2e2f42;
+}
+/*===================/Footer styles===================*/
